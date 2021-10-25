@@ -1,5 +1,5 @@
 # Multi-View Total Correlation Auto-Encoder
-<img src="model1.png" alt="MVTCAE" style="zoom: 30%;" />
+<img src="model1.PNG" alt="MVTCAE" style="zoom: 20%;" />
 
 The official implementation for the NeurIPS 2021 paper "Multi-View Representation Learning via Total Correlation Objective".
 
@@ -40,7 +40,7 @@ You can find evaluation results in the tensorboard log saved in exp_poly directo
 
 #### 3. Results
 
-<img src="3FIGURES.PNG" alt="3FIGURES" style="zoom: 40%;" />
+<img src="3FIGURES.PNG" alt="3FIGURES" style="zoom: 30%;" />
 
 
 
