@@ -1,7 +1,7 @@
 # Multi-View Total Correlation Auto-Encoder
 <img src="model1.png" alt="MVTCAE" style="zoom: 20%;" />
 
-The official implementation for the NeurIPS 2021 paper "Multi-View Representation Learning via Total Correlation Objective".
+The official implementation for the paper "Multi-View Representation Learning via Total Correlation Objective" in NeurIPS 2021.
 
 #### 1. Prerequisites
 
