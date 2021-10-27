@@ -45,5 +45,6 @@ You can find evaluation results in the tensorboard log saved in exp_poly directo
 
 
 #### 4. Notes
-
 All the results are averaged over 5 different seeds (0~4).
+
+We appreciate [MoPoE-VAE](https://github.com/thomassutter/MoPoE) on which our implementation is heavly based.
